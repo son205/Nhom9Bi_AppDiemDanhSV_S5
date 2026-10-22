@@ -1,0 +1,6 @@
+@Nhom9Bi_AppDiemDanhSV_S5_HostAddress = http://localhost:5003
+
+GET {{Nhom9Bi_AppDiemDanhSV_S5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
